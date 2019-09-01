@@ -1,6 +1,6 @@
 # DoorPhoneMonitor
 
-パナソニック製ドアホン([VL-SWD700KL](https://panasonic.jp/door/p-db/VL-SWD700KL.html))に入れた無線LAN搭載SDカード([FlashAir](https://jp.toshiba-memory.com/product/flashair/sduwa/index_j.htm))上で動作するLuaスクリプト
+パナソニック製ドアホン([VL-SWD700KL](https://panasonic.jp/door/p-db/VL-SWD700KL.html))に挿した無線LAN搭載SDカード([FlashAir](https://jp.toshiba-memory.com/product/flashair/sduwa/index_j.htm))上で動作するLuaスクリプト
 
 
 ### 使用方法
