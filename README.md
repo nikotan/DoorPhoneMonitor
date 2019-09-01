@@ -8,7 +8,7 @@
 - [LUA_RUN_SCRIPT](https://www.flashair-developers.com/ja/documents/api/config/#LUA_RUN_SCRIPT) : "monitor_run.lua"  
 ※起動時に最新の録画データをチェックし、結果を共有メモリに格納
 - [LUA_SD_EVENT](https://www.flashair-developers.com/ja/documents/api/config/#LUA_SD_EVENT) : "monitor_event.lua"  
-※SDカードへの新たな書き込みをチェックし、Dropboxにアップロード＆IFTTTにトリガー送信
+※SDカードへの新たな書き込みをチェックし、Dropboxにアップロード＆IFTTTにトリガー送信  
 ※DropboxのアプリトークンとIFTTTのトリガーURLの設定が必要
 
 
